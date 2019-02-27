@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="error_msg">Oops, something went wrong. Please try again.</string>
+</resources>
