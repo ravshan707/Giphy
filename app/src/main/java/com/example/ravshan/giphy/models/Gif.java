@@ -9,7 +9,7 @@ public class Gif extends RealmObject {
     String id;
     Images images;
 
-    //local key
+    //local key for caching
     String query;
 
     public Images getImages() {

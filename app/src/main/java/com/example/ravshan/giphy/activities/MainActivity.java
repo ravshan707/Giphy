@@ -17,11 +17,7 @@ import com.example.ravshan.giphy.models.Gif;
 import com.example.ravshan.giphy.network.GiphySearchResponse;
 import com.example.ravshan.giphy.network.GiphyService;
 import com.example.ravshan.giphy.network.ServiceFactory;
-
 import java.util.ArrayList;
-
-
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
